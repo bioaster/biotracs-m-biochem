@@ -1,0 +1,7 @@
+{
+	"name"			: "biotracs-m-biochem",
+    "description"    : "Biotracs application for biochemistry",
+	"dependencies"	: [
+		"biotracs-m"
+		]
+}
