@@ -1,15 +1,15 @@
-# Biotracs-biochem application
+# BioTracs Biochem application
 
-The biotracs-biochem application aims at providing a library to define usual biochemistry data (e.g. `.fasta`, `.sbml` files, ...)
+The `biotracs-m-biochem` application provides some libraries to handle biochemistry data (e.g. `.fasta`, `.sbml` files, ...).
 
-# Learn more about the biotracs project
+# Learn more about the BioTracs project
 
-To learn more about the biotracs project, please refers to https://github.com/bioaster/biotracs
+To learn more about the BioTracs project, please refers to https://github.com/bioaster/biotracs
 
 # Usage
 
-Please refer to the documentation at https://github.com/bioaster/biotracs
+Please refer to the documentation at https://bioaster.github.io/biotracs/documentation
 
 # License
 
-BIOASTER License
+BIOASTER license https://github.com/bioaster/biotracs/blob/master/LICENSE
