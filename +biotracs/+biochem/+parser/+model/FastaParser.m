@@ -22,6 +22,8 @@ classdef FastaParser < biotracs.core.parser.model.BaseParser
         
         % Constructor
         function this = FastaParser()
+            %#function biotracs.biochem.parser.model.FastaParserConfig
+            
             this@biotracs.core.parser.model.BaseParser();
         end
        

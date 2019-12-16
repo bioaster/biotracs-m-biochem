@@ -21,6 +21,8 @@ classdef SbmlParser < biotracs.core.parser.model.BaseParser
     methods
         % Constructor
         function this = SbmlParser( )
+            %#function biotracs.biochem.parser.model.SbmlParserConfig
+            
             this@biotracs.core.parser.model.BaseParser();
         end
     end
